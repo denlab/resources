@@ -11,7 +11,7 @@ Contains resources (like images) for other projects documentation.
 
 Because I don't know how to handle images in `README`s properly.
 
-So all my images are put here, and referenced by other projects that needs it.
+So all my images are put here, and referenced by other projects that need it.
 
 # How? 
 
