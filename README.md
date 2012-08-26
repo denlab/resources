@@ -1,4 +1,4 @@
-denlab-github-resources
+resources
 =======================
 
 # What? 
