@@ -1,4 +1,18 @@
 denlab-github-resources
 =======================
 
-No code here! Contains resources (like images) for other projects documentation
+# What? 
+
+No code here! 
+
+Contains resources (like images) for other projects documentation.
+
+# Why? 
+
+Because I don't know how to handle images in READMEs properly.
+
+So all my images are put here, and referenced by other projects that needs it.
+
+# How? 
+
+Nothing, it's only for me ;-)
